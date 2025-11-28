@@ -2,3 +2,4 @@ npm create vite@latest
 jsx => {{}}
 Single Page Application SPA
 index.html => main.jsx => App.jsx
+index.css
